@@ -12,5 +12,8 @@ python file argument(s)
 For example:  question 1
 
 ```bash
-python Question-1 23
+python Question-1.py 23
 ```
+
+
+To run the C++ code , compile in your compiler of your choice and test for inputs
